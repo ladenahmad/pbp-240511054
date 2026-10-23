@@ -11,7 +11,7 @@
 | Keterbatasan | Bergantung pada browser dan dapat bergantung pada internet | Perlu penyesuaian dengan sistem operasi | Memiliki keterbatasan ukuran layar dan spesifikasi perangkat |
 | Contoh aplikasi | Google Docs, YouTube | Microsoft Word, Visual Studio Code | WhatsApp, Google Maps |
 
-## 2 Referensi
+## 2. Referensi
 
 1. MDN Web Docs. *Web developer guides*. https://developer.mozilla.org/en-US/docs/MDN/Guides
 2. Microsoft Learn. *Windows app development documentation*. https://learn.microsoft.com/en-us/windows/apps/desktop/
